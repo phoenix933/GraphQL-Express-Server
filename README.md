@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img title="Book Library" src="https://github.com/crashdev226/Books-Library-GraphQL/blob/main/public/img1.jpg" alt="React + GraphQL + Apollo" width="1000" />
+  
   <br>
    GraphQL Books Library Built Using React.JS, GraphQL, Apollo Client, Node.JS, Express.JS and MongoDB.
 </h1>
