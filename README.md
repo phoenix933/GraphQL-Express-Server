@@ -27,7 +27,7 @@ To be able to use this Express app locally in a development environment you will
 ```cmd
 
 # Clone the backend repository
-git clone https://github.com/AhmedTohamy01/GraphQL-Express-Server
+git clone https://github.com/crashdev226/GraphQL-Express-Server
 
 # Go into the repository
 cd GraphQL-Express-Server
